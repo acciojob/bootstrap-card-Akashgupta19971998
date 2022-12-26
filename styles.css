@@ -1,2 +1,18 @@
 
-/* Your CSS Code here. */
+.learn-more-btn { 
+    background-color:blue;
+    font-size: 18px; 
+    font-weight: 700;
+    color:white;
+    padding: 12px 29px;
+    border-radius: 10px;
+    border: 2px solid black;
+    /* box-shadow: 0 10px 20px rgb(0 0 0 / 10%);  */
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.7s;
+}
+.features .container{
+    /* background-color: #ddf5fc; */
+    background-color:black;
+}
